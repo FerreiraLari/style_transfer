@@ -18,10 +18,8 @@ Trabalho de conclusão de curso para o Hub de IA
 
 2. Após o envio e seleção do tipo da primeira imagem, deve-se enviar a segunda imagem e também selecionar o tipo desta.
 
-![Print 2](https://user-images.githubusercontent.com/69324180/127348594-75402f80-3702-4735-bbdd-f653cf7089c4.png)
+![foto2](https://user-images.githubusercontent.com/69324180/127348972-1b1082b0-acd1-4c83-9008-25f71a8c5bc1.png)
 
-
-![Print2 1](https://user-images.githubusercontent.com/69324180/117272212-59505700-ae31-11eb-8068-ef42e3afd218.jpeg)
 
 3. Para a contagem de vergalhões o processo é o mesmo, porém existem 3 opções de vergalhões: menor, médio e maior.
 
