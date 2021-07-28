@@ -27,7 +27,12 @@ Trabalho de conclusão de curso para o Hub de IA
 
 Pode-se observar pela imagem acima que existem 3 opções de imagens que o bot pode enviar, sendo elas: a imagem estilizada e as duas imagens enviadas originalmente.
 
-4. Após selecionada a opção de contagem para os vergalhões, caso o usuário note que o tamanho escolhido não é o correto não é necessário o envio da imagem novamente é só clicar em /opcoes mais uma vez e selecionar a opção correta. Na imagem abaixo foi selecionada a opção "Contar vergalhões-médio", pode-se notar que essa opção não trouxe um resultado tão assertivo.
+4. Selecionando a primerira opção que é "Qual a imagem usada como estilo?" será enviada a imagem que o usuário enviou e selecionou o tipo como estilo.
+Já selecionando a segunda opção que é "Qual a imagem usada como conteúdo?" será enviada a imagem que o usuário enviou e selecionou o tipo como conteudo.
+Por fim, selecionando a terceira opção que é "Estilizar!" o bot retornará a imagem estilizada.
+
+![selop](https://user-images.githubusercontent.com/69324180/127351025-b420fd70-4b09-42df-9585-bb312f94d6df.png)
+
 
 ![Print4](https://user-images.githubusercontent.com/69324180/117192274-e5259d00-adb7-11eb-9c89-e82d46da6da1.jpeg)
 
