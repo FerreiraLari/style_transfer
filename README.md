@@ -21,9 +21,11 @@ Trabalho de conclusão de curso para o Hub de IA
 ![foto2](https://user-images.githubusercontent.com/69324180/127348972-1b1082b0-acd1-4c83-9008-25f71a8c5bc1.png)
 
 
-3. Para a contagem de vergalhões o processo é o mesmo, porém existem 3 opções de vergalhões: menor, médio e maior.
+3. Após enviar as duas imagens e selecionar os seus respectivos tipos, deve-se clicar em /opcoes para que seja exibido um menu com as alternativas de imagem que o bot oferece.
 
-![Print3](https://user-images.githubusercontent.com/69324180/117191606-20739c00-adb7-11eb-8305-58bf9d46613b.jpeg)
+![Print 3](https://user-images.githubusercontent.com/69324180/127349540-6b699863-e336-4662-b9b3-fffca3f23136.png)
+
+Pode-se observar pela imagem acima que existem 3 opções de imagens que o bot pode enviar, sendo elas: a imagem estilizada e as duas imagens enviadas originalmente.
 
 4. Após selecionada a opção de contagem para os vergalhões, caso o usuário note que o tamanho escolhido não é o correto não é necessário o envio da imagem novamente é só clicar em /opcoes mais uma vez e selecionar a opção correta. Na imagem abaixo foi selecionada a opção "Contar vergalhões-médio", pode-se notar que essa opção não trouxe um resultado tão assertivo.
 
