@@ -38,6 +38,7 @@ As imagens abaixo mostram os resultados se selecionada cada uma das opções uma
 ![result](https://user-images.githubusercontent.com/69324180/127351179-864480f0-3e8b-4b94-b83b-b4dbe0f8103c.png)
 
 
-5. Além das funcionalidades mencionadas em diversas mensagens o bot oferece a opção de ajuda com o botão /help.
+5. Além das funcionalidades mencionadas, em diversas mensagens o bot oferece a opção de ajuda com o botão /help clicando nesse botão ou digitando /help será exibida a opção de acessar o exemplo com o passo a passo, optando pelo acesso o usuário será encaminhado para esta página.
 
-![Print6](https://user-images.githubusercontent.com/69324180/117192912-a3492680-adb8-11eb-88ac-dfcb1b7b2b16.jpeg)
+![help](https://user-images.githubusercontent.com/69324180/127352927-2ac0a072-fcc6-4fde-bd79-60a7e9c96e8c.png)
+
