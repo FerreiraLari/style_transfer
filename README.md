@@ -13,13 +13,13 @@ Trabalho de conclusão de curso para o Hub de IA
 
 1. Usando o comando /start o bot irá saudar o usuário e solicitar uma foto para realização da tranferência de estilo, após o envio da mesma é solicitado ao usuário que selecione o tipo da imagem, podendo ser do tipo estilo ou conteúdo. Lembrando que o conteúdo é a imagem que deve ser estilizada enquanto o estilo trata-se da imagem que será usada como o estilo para alterar a imagem conteúdo.
 
-![Print 1](https://user-images.githubusercontent.com/69324180/127347693-5747e5bf-30e1-4edd-810d-82fd8b181260.png)
+![Print 1](https://user-images.githubusercontent.com/69324180/127348245-de4b206a-5477-4789-bac5-faf1d957270a.png)
 
-![Print2](https://user-images.githubusercontent.com/69324180/127347844-79629413-54ad-43d3-b686-79ef29705adb.png)
 
-![Print 1](https://user-images.githubusercontent.com/69324180/117272186-4fc6ef00-ae31-11eb-9943-d9cdd3881803.jpeg)
+2. Após o envio e seleção do tipo da primeira imagem, deve-se enviar a segunda imagem e também selecionar o tipo desta.
 
-2. Após selecionar a opção de contagem, o bot retorna a foto com as anotações dos objetos contados e a contagem. Além disso, nesse passo o bot sugere ao usuário que caso necessite ajuda clique em /help, caso o faça o usuário será redirecionado a esta página.
+![Print 2](https://user-images.githubusercontent.com/69324180/127348594-75402f80-3702-4735-bbdd-f653cf7089c4.png)
+
 
 ![Print2 1](https://user-images.githubusercontent.com/69324180/117272212-59505700-ae31-11eb-8068-ef42e3afd218.jpeg)
 
