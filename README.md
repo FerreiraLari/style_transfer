@@ -31,15 +31,13 @@ Pode-se observar pela imagem acima que existem 3 opções de imagens que o bot p
 Já selecionando a segunda opção que é "Qual a imagem usada como conteúdo?" será enviada a imagem que o usuário enviou e selecionou o tipo como conteudo.
 Por fim, selecionando a terceira opção que é "Estilizar!" o bot retornará a imagem estilizada.
 
+As imagens abaixo mostram os resultados se selecionada cada uma das opções uma vez, na ordem em que aparecem no menu.
+
 ![selop](https://user-images.githubusercontent.com/69324180/127351025-b420fd70-4b09-42df-9585-bb312f94d6df.png)
 
+![result](https://user-images.githubusercontent.com/69324180/127351179-864480f0-3e8b-4b94-b83b-b4dbe0f8103c.png)
 
-![Print4](https://user-images.githubusercontent.com/69324180/117192274-e5259d00-adb7-11eb-9c89-e82d46da6da1.jpeg)
 
-5. Clicando em /opções novamente o menu volta a ser exibido.
-
-![Print5](https://user-images.githubusercontent.com/69324180/117192663-60874e80-adb8-11eb-963f-7ec69ba36f6f.jpeg)
-
-6. Após escolher a opção correta para esse caso ("Contar vergalhões-maior") o bot retorna o resultado mais assertivo.
+5. Além das funcionalidades mencionadas em diversas mensagens o bot oferece a opção de ajuda com o botão /help.
 
 ![Print6](https://user-images.githubusercontent.com/69324180/117192912-a3492680-adb8-11eb-88ac-dfcb1b7b2b16.jpeg)
